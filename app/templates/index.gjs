@@ -1,7 +1,6 @@
 import { LinkTo } from '@ember/routing';
 import Jumbo from 'super-rentals/components/jumbo';
 
-
 <template>
   <Jumbo>
     <h2>Welcome to Super Rentals!</h2>
