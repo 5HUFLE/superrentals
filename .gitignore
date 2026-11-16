@@ -24,3 +24,6 @@
 
 # broccoli-debug
 /DEBUG/
+
+*.DS*
+.DS_Store
